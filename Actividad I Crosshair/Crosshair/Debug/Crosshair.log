@@ -1,0 +1,22 @@
+﻿  crosshair.cpp
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,67): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,67): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,67): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,67): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,42): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,42): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,42): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(21,42): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,61): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,61): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,61): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,61): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,40): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,40): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,40): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Crosshair\crosshair.cpp(22,40): warning C4244:         ]
+  Crosshair.vcxproj -> C:\Users\SOFI }\source\repos\Práctica U4\Actividad I Crosshair\Debug\Crosshair.exe
