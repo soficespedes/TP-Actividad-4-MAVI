@@ -1,0 +1,70 @@
+﻿  Drag.cpp
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,100): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,100): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,100): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,100): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,79): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,79): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,79): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(45,79): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,105): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,105): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,105): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,105): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,105): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,84): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,84): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,84): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(56,84): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,105): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,105): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,105): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,105): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,105): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,84): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,84): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,84): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(66,84): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,105): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,105): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,105): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,105): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,105): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,84): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,84): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,84): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(76,84): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(88,56): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(88,56): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(88,56): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(88,56): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(88,56): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(88,56): warning C4244:         and
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(88,56): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(88,56): warning C4244:             T=int
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(88,56): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(89,56): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(89,56): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(89,56): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(89,56): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(89,56): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(89,56): warning C4244:         and
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(89,56): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(89,56): warning C4244:             T=int
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(89,56): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,74): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,74): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,74): warning C4244:             T=int
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,74): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,51): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,51): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,51): warning C4244:             T=int
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Drag\Drag.cpp(98,51): warning C4244:         ]
+  Drag.vcxproj -> C:\Users\SOFI }\source\repos\Práctica U4\Actividad II Drag\Debug\Drag.exe
