@@ -1,0 +1,22 @@
+﻿  Splats.cpp
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,89): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,89): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,89): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,89): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,89): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,68): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,68): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,68): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(36,68): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,89): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,89): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,89): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,89): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,89): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,68): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,68): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,68): warning C4244:             T=float
+C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Splats\Splats.cpp(42,68): warning C4244:         ]
+  Splats.vcxproj -> C:\Users\SOFI }\source\repos\Práctica U4\Actividad III Splats\Debug\Splats.exe
