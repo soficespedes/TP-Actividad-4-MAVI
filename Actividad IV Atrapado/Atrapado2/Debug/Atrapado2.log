@@ -1,0 +1,42 @@
+﻿  Atrapado.cpp
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,82): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,82): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,82): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,82): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,52): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,52): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,52): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(41,52): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,66): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,66): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,66): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,66): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,45): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,45): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,45): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(42,45): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,79): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,79): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,79): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,79): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,50): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,50): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,50): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(43,50): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,65): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,65): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,65): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,65): warning C4244:         ]
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,44): warning C4244:         with
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,44): warning C4244:         [
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,44): warning C4244:             T=unsigned int
+C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Atrapado2\Atrapado.cpp(44,44): warning C4244:         ]
+  Atrapado2.vcxproj -> C:\Users\SOFI }\source\repos\Práctica U4\Atrapado2\Debug\Atrapado2.exe
